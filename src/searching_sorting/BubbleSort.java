@@ -1,4 +1,4 @@
-package sorting;
+package searching_sorting;
 
 public class BubbleSort {
     
